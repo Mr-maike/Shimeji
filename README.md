@@ -25,8 +25,23 @@ Dentre as tecnologias utilizadas estão os microcontroladores Raspberry Pi 4 e o
 
 ## :rocket: Como rodar os Testes
 
-:construction: Em construção...
+  #### :ocean: Arquivo Test-DHT11
+  Esse arquivo .py consiste em um Teste Simples para Testar a biblioteca do Sensor DHT11 da Adafruit. É importante seguir o passo a passo para que ocorra a instalação da biblioteca e ela rode nativamente dentro do Sensor.
+  Observação: Atente-se à imagem abaixo para saber onde conectar cada jumper.
 
+1) Digitar o seguinte código no Terminal do Raspberry:
+`git clone https://github.com/adafruit/Adafruit_Python_DHT.git`
+
+2) Entrar dentro da biblioteca usando esse código:
+`cd Adafruit_Python_DHT`
+
+3) Antes de continuar com a instalação é importante ver a atualização do Raspberry. Para isso, digite o seguinte código: <br>
+```
+sudo apt-get update
+sudo apt-get install build-essential python-dev
+```
+4) Para finalizar a instalação, digite o seguinte código:
+`sudo python setup.py install`
 
 ## :page_facing_up: Licença
 
