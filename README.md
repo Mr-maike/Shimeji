@@ -21,6 +21,7 @@ Dentre as tecnologias utilizadas estão os microcontroladores Raspberry Pi 4 e o
 
   - [Python](https://www.python.org) 
   - [Raspberry Pi](https://www.raspberrypi.com)
+  - [Arduino](https://www.arduino.cc/)
 
 
 ## :rocket: Como rodar os Testes
