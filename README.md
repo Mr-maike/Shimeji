@@ -12,7 +12,7 @@
 
 ## :computer: Projeto
 
-O projeto consiste em um Uma Estufa Automática para cultivo de cogumelos Shimeji. O objetivo do projeto consiste na elaboração de um sistema Automático, utilizando tecnologias da Industria 4.0 como solução Tecnológica da escola Sathya Say.
+O projeto consiste em um Uma Estufa Automática para cultivo de cogumelos Shimeji. O objetivo do projeto consiste na elaboração de um sistema Automático, utilizando tecnologias da Industria 4.0 como solução Tecnológica da escola Sathya Say proposta pela empresa Júnior Physis Jr.
 
 Dentre as tecnologias utilizadas estão os microcontroladores Raspberry Pi 4 e o Arduino.  
 
